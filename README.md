@@ -1,6 +1,7 @@
 # Data Augmenter for Time Series Data
 
-> [!NOTE] This library has been forked and updated as I was unable to install it
+> [!NOTE] 
+> This library has been forked and updated as I was unable to install it
 > with Python 3.14. Below is the (mostly) original description. Note that the
 > documentation currently does not match the changes made in this repo.
 
