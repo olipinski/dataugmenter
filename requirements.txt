@@ -1,8 +1,0 @@
-numpy==1.23.5
-tqdm
-pandas
-scipy
-matplotlib
-openpyxl
-scikit-posthocs
-pytest
